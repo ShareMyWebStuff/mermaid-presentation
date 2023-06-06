@@ -107,18 +107,20 @@ Several of the different diagrams will need different variables to be set for th
 
 ## Mermaid Chart Types
 
-[Flowchart](https://github.com/ShareMyWebStuff/mermaid-presentation/blob/main/1-FLOWCHARTS.md)
-[Sequence charts](https://github.com/ShareMyWebStuff/mermaid-presentation/blob/main/2-SEQUENCE.md)
-[Class diagrams](https://github.com/ShareMyWebStuff/mermaid-presentation/blob/main/3-CLASS.md)
-[State diagrams](https://github.com/ShareMyWebStuff/mermaid-presentation/blob/main/4-STATE.md)
-[ER diagrams](https://github.com/ShareMyWebStuff/mermaid-presentation/blob/main/5-ERD.md)
-[User journey diagrams](https://github.com/ShareMyWebStuff/mermaid-presentation/blob/main/6-USER_JOURNEY.md)
-[Gantt charts](https://github.com/ShareMyWebStuff/mermaid-presentation/blob/main/7-GANTT.md)
-[Pie charts](https://github.com/ShareMyWebStuff/mermaid-presentation/blob/main/8-PIE.md)
-[Quadrant diagrams](https://github.com/ShareMyWebStuff/mermaid-presentation/blob/main/9-QUADRANT.md)
-[Requirement diagrams](https://github.com/ShareMyWebStuff/mermaid-presentation/blob/main/10-REQUIREMENT.md)
-[Gitgraph diagrams](https://github.com/ShareMyWebStuff/mermaid-presentation/blob/main/11-GITGRAPH.md)
-[C4 diagrams](https://github.com/ShareMyWebStuff/mermaid-presentation/blob/main/12-C4.md)
+See examples of the different types of charts you can create with mermaid
+
+- [Flowchart](https://github.com/ShareMyWebStuff/mermaid-presentation/blob/main/1-FLOWCHARTS.md)
+- [Sequence charts](https://github.com/ShareMyWebStuff/mermaid-presentation/blob/main/2-SEQUENCE.md)
+- [Class diagrams](https://github.com/ShareMyWebStuff/mermaid-presentation/blob/main/3-CLASS.md)
+- [State diagrams](https://github.com/ShareMyWebStuff/mermaid-presentation/blob/main/4-STATE.md)
+- [ER diagrams](https://github.com/ShareMyWebStuff/mermaid-presentation/blob/main/5-ERD.md)
+- [User journey diagrams](https://github.com/ShareMyWebStuff/mermaid-presentation/blob/main/6-USER_JOURNEY.md)
+- [Gantt charts](https://github.com/ShareMyWebStuff/mermaid-presentation/blob/main/7-GANTT.md)
+- [Pie charts](https://github.com/ShareMyWebStuff/mermaid-presentation/blob/main/8-PIE.md)
+- [Quadrant diagrams](https://github.com/ShareMyWebStuff/mermaid-presentation/blob/main/9-QUADRANT.md)
+- [Requirement diagrams](https://github.com/ShareMyWebStuff/mermaid-presentation/blob/main/10-REQUIREMENT.md)
+- [Gitgraph diagrams](https://github.com/ShareMyWebStuff/mermaid-presentation/blob/main/11-GITGRAPH.md)
+- [C4 diagrams](https://github.com/ShareMyWebStuff/mermaid-presentation/blob/main/12-C4.md)
 
 
 ## Supporting Links
