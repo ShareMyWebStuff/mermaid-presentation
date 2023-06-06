@@ -36,20 +36,10 @@ If two systems interacted with each other we could show this in a sequence diagr
 This would produce the below
 
 ```mermaid
-%%{
-  init: {
-    'theme': 'base',
-    'themeVariables': {
-      'primaryColor': '#BB2528',
-      'primaryTextColor': '#fff',
-      'primaryBorderColor': '#7C0000',
-      'lineColor': '#F8B229',
-      'secondaryColor': '#006100',
-      'tertiaryColor': '#444',
-      'background': '#111'
-    }
-  }
-}%%
+%%{init: {'theme': 'dark', 'themeCSS': '{background-color: black}'}}%%
+%%{init: {'theme': 'forest'}}%%
+%%{init: {"flowchart": {"defaultRenderer": "elk"}} }%%
+
 sequenceDiagram
     participant System1
     participant System2
