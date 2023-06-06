@@ -19,7 +19,7 @@ This shows the following user journey (although not mine)
 ```mermaid
 %%{
   init: {
-    'theme': 'base',
+    'theme': 'dark',
     'themeVariables': {
       'primaryTextColor': '#fff',
       'fillType0': '#BB2528',
