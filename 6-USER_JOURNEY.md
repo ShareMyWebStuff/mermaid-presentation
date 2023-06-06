@@ -21,13 +21,9 @@ This shows the following user journey (although not mine)
   init: {
     'theme': 'base',
     'themeVariables': {
-      'primaryColor': '#BB2528',
       'primaryTextColor': '#fff',
-      'primaryBorderColor': '#7C0000',
-      'lineColor': '#F8B229',
-      'secondaryColor': '#006100',
-      'tertiaryColor': '#444',
-      'background': '#111'
+      'fillType0': '#BB2528',
+      'fillType1': '#006100'
     }
   }
 }%%
