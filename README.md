@@ -90,7 +90,8 @@ This creates a more attractive diagram
       'lineColor': '#F8B229',
       'secondaryColor': '#006100',
       'tertiaryColor': '#fff',
-      'background': '#f4f4f4'
+      'background': '#f4f4f4',
+      'darkMode': true
     }
   }
 }%%
