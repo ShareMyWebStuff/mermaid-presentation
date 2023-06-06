@@ -90,7 +90,7 @@ This creates a more attractive diagram
       'lineColor': '#F8B229',
       'secondaryColor': '#006100',
       'tertiaryColor': '#fff',
-      'mainBkg': '#fff',
+      'background': '#f4f4f4'
     }
   }
 }%%
@@ -106,7 +106,18 @@ Several of the different diagrams will need different variables to be set for th
 
 ## Mermaid Chart Types
 
-[Flowchart]()
+[Flowchart](https://github.com/ShareMyWebStuff/mermaid-presentation/blob/main/1-FLOWCHARTS.md)
+[Sequence charts](https://github.com/ShareMyWebStuff/mermaid-presentation/blob/main/2-SEQUENCE.md)
+[Class diagrams](https://github.com/ShareMyWebStuff/mermaid-presentation/blob/main/3-CLASS.md)
+[State diagrams](https://github.com/ShareMyWebStuff/mermaid-presentation/blob/main/4-STATE.md)
+[ER diagrams](https://github.com/ShareMyWebStuff/mermaid-presentation/blob/main/5-ERD.md)
+[User journey diagrams](https://github.com/ShareMyWebStuff/mermaid-presentation/blob/main/6-USER_JOURNEY.md)
+[Gantt charts](https://github.com/ShareMyWebStuff/mermaid-presentation/blob/main/7-GANTT.md)
+[Pie charts](https://github.com/ShareMyWebStuff/mermaid-presentation/blob/main/8-PIE.md)
+[Quadrant diagrams](https://github.com/ShareMyWebStuff/mermaid-presentation/blob/main/9-QUADRANT.md)
+[Requirement diagrams](https://github.com/ShareMyWebStuff/mermaid-presentation/blob/main/10-REQUIREMENT.md)
+[Gitgraph diagrams](https://github.com/ShareMyWebStuff/mermaid-presentation/blob/main/11-GITGRAPH.md)
+[C4 diagrams](https://github.com/ShareMyWebStuff/mermaid-presentation/blob/main/12-C4.md)
 
 
 ## Supporting Links
@@ -116,7 +127,5 @@ Several of the different diagrams will need different variables to be set for th
 [Mermaid live editor](https://mermaid.live/edit#pako:eNplUU1PwzAM_Ssm507cK1QEQoB24LBde3ETr4lI45A6oGrafydtxDQJn6z3Efs5Z6XZkGrVTF-ZgqYXh2PCqQ9QKmISp13EIPDknab_8DMPFdz4Xdft2YYW3sl7hrVvwPIPYCJYOD9WrWeORYJerLakPyu61uq4PvLqRiuAI7owC9glsrYcTHJYDRRMbT5YCNKm5hNU8wHFcUAPYjkXZoaHId13MdE3On9Xjdu4Mm9bvoW3RCi3VNeVfCXNmmDgLDcZCrG7brpn7xcYmc3mVo2aKE3oTLnseUV6JZYm6lVbWkMnzF561YdLkWIWPi5Bq1ZSpkblaFD-PqKCl18UC4uC)
 
 
-
-# Further Reading
 
 
