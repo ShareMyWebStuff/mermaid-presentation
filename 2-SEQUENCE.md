@@ -36,7 +36,7 @@ If two systems interacted with each other we could show this in a sequence diagr
 This would produce the below
 
 ```mermaid
-%%{init: {'theme': 'dark', 'themeCSS': '{background-color: black}'}}%%
+%%{init: {'theme': 'dark', 'themeCSS': 'body {background-color: red}'}}%%
 %%{init: {'theme': 'forest'}}%%
 %%{init: {"flowchart": {"defaultRenderer": "elk"}} }%%
 
