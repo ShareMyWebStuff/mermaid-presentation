@@ -76,7 +76,7 @@ This produces
 ```mermaid
 %%{
   init: {
-    'theme': 'base',
+    'theme': 'neutral',
     'themeVariables': {
       'primaryColor': '#BB2528',
       'primaryTextColor': '#fff',

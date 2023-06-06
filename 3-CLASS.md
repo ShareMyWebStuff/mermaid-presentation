@@ -7,7 +7,7 @@ A class diagram shows the classes in a system and the relationships between the 
 ```mermaid
 %%{
   init: {
-    'theme': 'base',
+    'theme': 'dark',
     'themeVariables': {
       'primaryColor': '#BB2528',
       'primaryTextColor': '#fff',

@@ -7,7 +7,7 @@ The colouring of entity diagrams currently has issues.
 ```mermaid
 %%{
   init: {
-    'theme': 'base',
+    'theme': 'dark',
   }
 }%%
 erDiagram
