@@ -89,7 +89,8 @@ This creates a more attractive diagram
       'primaryBorderColor': '#7C0000',
       'lineColor': '#F8B229',
       'secondaryColor': '#006100',
-      'tertiaryColor': '#fff'
+      'tertiaryColor': '#fff',
+      'mainBkg': '#fff',
     }
   }
 }%%
