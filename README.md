@@ -117,10 +117,9 @@ See examples of the different types of charts you can create with mermaid
 - [User journey diagrams](https://github.com/ShareMyWebStuff/mermaid-presentation/blob/main/6-USER_JOURNEY.md)
 - [Gantt charts](https://github.com/ShareMyWebStuff/mermaid-presentation/blob/main/7-GANTT.md)
 - [Pie charts](https://github.com/ShareMyWebStuff/mermaid-presentation/blob/main/8-PIE.md)
-- [Quadrant diagrams](https://github.com/ShareMyWebStuff/mermaid-presentation/blob/main/9-QUADRANT.md)
-- [Requirement diagrams](https://github.com/ShareMyWebStuff/mermaid-presentation/blob/main/10-REQUIREMENT.md)
-- [Gitgraph diagrams](https://github.com/ShareMyWebStuff/mermaid-presentation/blob/main/11-GITGRAPH.md)
-- [C4 diagrams](https://github.com/ShareMyWebStuff/mermaid-presentation/blob/main/12-C4.md)
+- [Requirement diagrams](https://github.com/ShareMyWebStuff/mermaid-presentation/blob/main/9-REQUIREMENT.md)
+- [Gitgraph diagrams](https://github.com/ShareMyWebStuff/mermaid-presentation/blob/main/10-GITGRAPH.md)
+- [C4 diagrams](https://github.com/ShareMyWebStuff/mermaid-presentation/blob/main/11-C4.md)
 
 
 ## Supporting Links
